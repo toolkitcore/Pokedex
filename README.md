@@ -1,5 +1,9 @@
 ﻿# Pokédex React App
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f735a947-741e-4870-a928-43a0894a7d86/deploy-status)](https://app.netlify.com/sites/mini-pokedex-ib/deploys)
+
+Netlify: https://mini-pokedex-ib.netlify.app/
+
 Pokédex React app that lets you discover and explore Pokémon based on [PokéAPI](https://pokeapi.co/).
 
 Explore and get information about each Pokémon, including their about, stats, and evolution.
